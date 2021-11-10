@@ -1,0 +1,19 @@
+{
+  "name": "trigger",
+  "version": "1.0.0",
+  "description": "testing truedata api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "truedata"
+  ],
+  "author": "arvind.c",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-cron": "^3.0.0",
+    "truedata-nodejs": "^1.0.6"
+  }
+}
